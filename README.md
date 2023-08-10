@@ -1,4 +1,4 @@
-# BCG-Gamma-Challenge
+# BCG Gamma Challenge: How can one promote sustainable economic development in municipalities of the Legal Amazon?
 
 ## The Challenge
 
