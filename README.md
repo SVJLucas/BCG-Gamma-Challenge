@@ -111,3 +111,8 @@ The training data for the machine learning model consisted of:
   <img src="https://github.com/SVJLucas/BCG-Gamma-Challenge/assets/60625769/236eacaf-2861-4cb2-bc33-f6f94c390173" alt="SoilData" width="800px"/>
 </p>
 
+  * The data was collected from the EMBRAPA - "Empresa Brasileira de Pesquisa Agropecuária", the Brazilian Agricultural Research Corporation, a state-owned company.
+
+
+2. **Cl
+
