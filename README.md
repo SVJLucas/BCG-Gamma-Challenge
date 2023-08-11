@@ -200,6 +200,15 @@ The genetic algorithm was implemented and is executed as follows:
   <img src="https://github.com/SVJLucas/BCG-Gamma-Challenge/assets/60625769/1b8e326f-56bd-4134-b7be-b7740febb51a" alt="Genetic Algorithm" width="900px"/>
 </p>
 
+1. We commence with the Initial Solution, provided by the intra-optimization in each city (referred to as "Step 1" in the previous figure).
+2. Random alterations are made to the Initial Solution, leading to the creation of modified solutions.
+3. From the best of these modified solutions, we conduct a "genetic crossover." In other words, we combine elements of various solutions to produce new samples. In the figure, this concept is depicted by new-generation samples possessing mixed "genes" (colors) from the previous generation.
+4. From the pool of modified samples and those obtained through crossover, we select those with the highest scores to constitute the new generation.
+5. The aforementioned steps are repeatedly executed until the desired convergence is achieved, at which point we adopt the best resulting solution.
+
+
+
+
 
 
 
