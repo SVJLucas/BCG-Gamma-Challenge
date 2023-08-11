@@ -13,13 +13,8 @@ We're proud to announce that our team secured the **First Prize in the BCG GAMMA
 BCG GAMMA, a specialized unit of the Boston Consulting Group (BCG) focused on **Data Analytics and Artificial Intelligence (AI)**, has unveiled its latest initiative: the BCG GAMMA Challenge. **This annual event is designed to spotlight emerging talents in Data Science and offer them a platform to tackle genuine issues**.
 
 <p align="center">
-  <img src="https://github.com/SVJLucas/BCG-Gamma-Challenge/assets/60625769/8fe2b6c2-2328-4c6e-8f4f-d814b65ac75b" alt="Description of Image" width="500px"/>
+  <img src="https://github.com/SVJLucas/BCG-Gamma-Challenge/assets/60625769/cc29aacb-5865-4cf6-9c43-3991722d7ff5" alt="Description of Image" width="600px"/>
 </p>
-
-
-
-
-
 
 
 ## The Challenge
