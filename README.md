@@ -88,3 +88,18 @@ The choice should take these factors into consideration, **maximizing the income
 <p align="center">
   <img src="https://github.com/SVJLucas/BCG-Gamma-Challenge/assets/60625769/3c1f057d-df24-42e0-b3a6-e8a01fb5f064" alt="ReturnRisk" width="800px"/>
 </p>
+
+### Our Solution -  *How to select diverse products compatible with the Amazon rainforest that are suitable for the biome and climate of each municipality?*
+
+To choose the distribution of products in each city, we propose a solution (pipeline) that combines two techniques:
+
+* **Machine Learning**: Using soil data for each city (pH, salinity, carbon, and saturation) as well as climate data for each city (temperature, rainfall, wind speed), we can generalize a model that can predict the productivity of each of the products compatible with the Amazon rainforest for each city.
+* **Metaheuristic Optimization**: Using metaoptimization through a genetic algorithm, given the productivity of each city, we can find the best configuration of products suitable for the biome and climate of each municipality, maximizing the return-profit ratio for the Brazilian government.
+
+<p align="center">
+  <img src="https://github.com/SVJLucas/BCG-Gamma-Challenge/assets/60625769/7d21b992-85ff-4638-96c3-5b27d38e0318" alt="ReturnRisk" width="800px"/>
+</p>
+
+
+
+
