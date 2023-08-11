@@ -25,7 +25,7 @@ The challenge centers on promoting sustainable economic development in the munic
 ## Our Solution
 
 
-### Our Solution - Context: *Products compatible with the forest*
+### Our Solution - *Context: Products compatible with the forest*
 
 **In the Amazon, we​ have a prevalence of monocultures**. Of the entire area planted within its territory in the year 2019:
 
@@ -53,7 +53,7 @@ By not using products compatible with the forest, **these cities are missing out
   <img src="https://github.com/SVJLucas/BCG-Gamma-Challenge/assets/60625769/ac52a342-8b6a-4a0c-b8cb-cf9bb0640bf2" alt="Amazon's Participation" width="600px"/>
 </p>
 
-### Our Solution - Context: *Social Programs in the Amazon Rainforest*
+### Our Solution - *Context: Social Programs in the Amazon Rainforest*
 
 There are a series of **Brazilian​ Government Social Programs** encouraging production in the Legal Amazon, like:​
 
@@ -67,7 +67,7 @@ There are a series of **Brazilian​ Government Social Programs** encouraging pr
 
 **While these programs cover 62% of the families receiving assistance in the region, they do not mention products suitable for the Amazon rainforest. This means that there is encouragement for agriculture without taking into account the local biome and ecological diversity.**
 
-### Our Solution - Proposal:
+### Our Solution - *Proposal*:
 
 
 <p align="center">
@@ -76,7 +76,7 @@ There are a series of **Brazilian​ Government Social Programs** encouraging pr
 
 The primary goal is to provide additional incentives to local families to cultivate products that are compatible with the Amazon rainforest biome. Concurrently, the Brazilian federal government should purchase these products from the families and utilize them for the food supply in its facilities, including hospitals, schools, prisons, and the like.
 
-### Our Solution -  How to select diverse products compatible with the Amazon rainforest that are suitable for the biome and climate of each municipality?
+### Our Solution -  *How to select diverse products compatible with the Amazon rainforest that are suitable for the biome and climate of each municipality?*
 
 We selected eleven products with the highest production history and analyzed the last ten years to extract the return and risk per municipality.
 
