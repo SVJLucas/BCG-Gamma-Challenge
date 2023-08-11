@@ -173,7 +173,7 @@ For selecting the appropriate machine learning model for the task, we employed *
 </div>
 
 
-Afterwards, we employed **Bayesian Otimization with SMAC** to optimize the hyperparameters of the best model (Extra Trees Regressor):
+Afterwards, we employed **Bayesian Otimization with SMAC to optimize the hyperparameters** of the best model (Extra Trees Regressor):
 
 
 <p align="center">
@@ -193,6 +193,12 @@ Based on the productivity and risk data, we applied a two-step optimization proc
   <img src="https://github.com/SVJLucas/BCG-Gamma-Challenge/assets/60625769/fe8e5a41-e855-490a-9c16-33710c19c84a" alt="Optimization" width="700px"/>
 </p>
 
+The genetic algorithm was implemented and is executed as follows:
+
+
+<p align="center">
+  <img src="https://github.com/SVJLucas/BCG-Gamma-Challenge/assets/60625769/1b8e326f-56bd-4134-b7be-b7740febb51a" alt="Genetic Algorithm" width="900px"/>
+</p>
 
 
 
