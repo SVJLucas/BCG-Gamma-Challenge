@@ -166,9 +166,16 @@ Afterwards, we employed **Bayesian Otimization with SMAC** to optimize the hyper
   <img src="https://github.com/SVJLucas/BCG-Gamma-Challenge/assets/60625769/d22c0f06-8df8-4c9b-ba7c-332e754a09e3" alt="Bayesian Otimization" width="500px"/>
 </p>
 
+The optimized model achieved an R2 score of **0.84**.
 
 
+### Our Solution - *Optimization*:
 
+Based on the productivity and risk data, we applied a two-step optimization process to arrive at the distribution per city:
+
+<p align="center">
+  <img src="https://github.com/SVJLucas/BCG-Gamma-Challenge/assets/60625769/fe8e5a41-e855-490a-9c16-33710c19c84a" alt="Optimization" width="700px"/>
+</p>
 
 
 
