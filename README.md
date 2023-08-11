@@ -74,6 +74,7 @@ There are a series of **Brazilian​ Government Social Programs** encouraging pr
   <img src="https://github.com/SVJLucas/BCG-Gamma-Challenge/assets/60625769/4f7b4a46-5d4d-45ab-b996-25e7a0631e38" alt="Proposal" width="500px"/>
 </p>
 
+The primary goal is to provide additional incentives to local families to cultivate products that are compatible with the Amazon rainforest biome. Concurrently, the Brazilian federal government should purchase these products from the families and utilize them for the food supply in its facilities, including hospitals, schools, prisons, and the like.
 
 ### Our Solution -  How to select diverse products compatible with the Amazon rainforest that are suitable for the biome and climate of each municipality?
 
