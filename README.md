@@ -74,3 +74,16 @@ There are a series of **Brazilian​ Government Social Programs** encouraging pr
   <img src="https://github.com/SVJLucas/BCG-Gamma-Challenge/assets/60625769/4f7b4a46-5d4d-45ab-b996-25e7a0631e38" alt="Proposal" width="500px"/>
 </p>
 
+
+### Our Solution -  How to select diverse products compatible with the Amazon rainforest that are suitable for the biome and climate of each municipality?
+
+We selected eleven products with the highest production history and analyzed the last ten years to extract the return and risk per municipality.
+
+**The best strategy for selecting the products will be one that focuses on diversity, promoting biodiversity, meeting diverse nutritional and economic needs of local communities, and helping to reduce the risk associated with each product's harvest.**
+
+The choice should take these factors into consideration, **maximizing the income generated (return) from the investment of the Brazilian Government**:
+
+
+<p align="center">
+  <img src="https://github.com/SVJLucas/BCG-Gamma-Challenge/assets/60625769/3c1f057d-df24-42e0-b3a6-e8a01fb5f064" alt="ReturnRisk" width="800px"/>
+</p>
