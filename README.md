@@ -224,7 +224,15 @@ Given the value of the percentage of available area to be allocated to each Amaz
   <img src="https://github.com/SVJLucas/BCG-Gamma-Challenge/assets/60625769/1a11875e-7172-4ca1-924f-d0cc1bc6b510" alt="Consulting" width="800px"/>
 </p>
 
+---
 
+### Our Solution - *Social, Environmental, and Economic Consequences*:
+
+
+
+<p align="center">
+  <img src="https://github.com/SVJLucas/BCG-Gamma-Challenge/assets/60625769/4c54ad0e-c68a-4abf-aafa-0337fd58c3bb" alt="Consulting" width="650px"/>
+</p>
 
 
 
