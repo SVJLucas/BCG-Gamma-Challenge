@@ -65,7 +65,7 @@ There are a series of **Brazilian​ Government Social Programs** encouraging pr
   <img src="https://github.com/SVJLucas/BCG-Gamma-Challenge/assets/60625769/b5afae52-9b27-4c64-99a6-44bdf47bc23d" alt="Social Programs" width="400px"/>
 </p>
 
-**While these programs cover 62% of the families receiving assistance in the region, they do not mention products suitable for the Amazon rainforest. This means that there is encouragement for agriculture without taking into account the local biome and ecological diversity.**
+While these programs cover **62%** of the families receiving assistance in the region, **they do not mention products suitable for the Amazon rainforest**. This means that there is encouragement for **agriculture without taking into account the local biome and ecological diversity**.
 
 ### Our Solution - *Proposal*:
 
