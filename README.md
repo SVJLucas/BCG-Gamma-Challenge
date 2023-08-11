@@ -21,3 +21,26 @@ BCG GAMMA, a specialized unit of the Boston Consulting Group (BCG) focused on **
 In its fourth edition, **the challenge invites participants to develop analytical solutions that can drive sustainable economic growth in the Amazon Region, in Brazil**. By harnessing publicly available data from local municipalities—ranging from biomes and exports to agricultural production and deforestation—participants are tasked with uncovering vital insights for the area's future.
 
 The challenge centers on promoting sustainable economic development in the municipalities of the Legal Amazon. **Despite the Amazon's vast economic potential, it faces issues such as low social development, underutilized economic opportunities, and increasing deforestation**. Participants are tasked with analyzing data across environmental, social, and economic dimensions using advanced analytics. **The objective is to derive innovative insights and provide actionable recommendations for the Arapyaú Institute, an important local non-profit organization,  or public entities to drive sustainable growth in the region.**
+
+## Our Solution
+
+* Note: All the images below were taken from our final presentation.
+
+
+### Our Solution - Context: *Products compatible with the forest*
+
+**In the Amazon, we​ have a prevalence of monocultures**. Of the entire area planted within its territory in the year 2019:
+
+
+<p align="center">
+  <img src="https://github.com/SVJLucas/BCG-Gamma-Challenge/assets/60625769/6a764603-38b1-47d0-8099-73703f9c9bb6" alt="PAM data" width="250px"/>
+</p>
+
+Few cities use *products compatible with the forest* (only about 3% of total cities in the region), **losing the economic potential of these products globally**. 
+
+
+<p align="center">
+  <img src="https://github.com/SVJLucas/BCG-Gamma-Challenge/assets/60625769/c8288923-6031-4a6d-937e-344941981e7f" alt="Amazon's Participation" width="250px"/>
+</p>
+
+### Our Solution - Context: *Social Programs in the Amazon Rainforest*
