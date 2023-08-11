@@ -24,8 +24,6 @@ The challenge centers on promoting sustainable economic development in the munic
 
 ## Our Solution
 
-* Note: All the images below were taken from our final presentation.
-
 
 ### Our Solution - Context: *Products compatible with the forest*
 
@@ -57,12 +55,17 @@ By not using products compatible with the forest, **these cities are missing out
 
 ### Our Solution - Context: *Social Programs in the Amazon Rainforest*
 
+There are a series of **Brazilian​ Government Social Programs** encouraging production in the Legal Amazon, like:​
+
+* **"Auxílio Inclusão Produtiva Rural"**: It is the granting of a monthly financial aid so that the citizen can start investing in their own rural production. Through this benefit, they will receive training from an agricultural technician on managing small-scale farming.
+* **"Fomento Rural"**: The Rural Development Program combines social and productive monitoring with direct financial support for poor rural families to invest in productive projects. The goal is to enhance their food production, income generation, and overall well-being, contributing to improved food security and poverty reduction.
+* **"Alimenta Brasil"**: is a food acquisition program that supports access to food and encourages production among various traditional groups. Through streamlined procurement, the government buys food from these groups and distributes it to those in need, including families, schools, health facilities, and correctional institutions.
 
 <p align="center">
-  <img src="https://github.com/SVJLucas/BCG-Gamma-Challenge/assets/60625769/79744a0d-7bd2-4f0b-9595-e54ad73f8c98" alt="Social Programs" width="500px"/>
+  <img src="https://github.com/SVJLucas/BCG-Gamma-Challenge/assets/60625769/b5afae52-9b27-4c64-99a6-44bdf47bc23d" alt="Social Programs" width="400px"/>
 </p>
 
-But **there is no direct mention of products compatible with the forest in these programs**.
+**While these programs cover 62% of the families receiving assistance in the region, they do not mention products suitable for the Amazon rainforest. This means that there is encouragement for agriculture without taking into account the local biome and ecological diversity.**
 
 ### Our Solution - Proposal:
 
