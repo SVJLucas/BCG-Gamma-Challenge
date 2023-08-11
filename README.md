@@ -114,5 +114,18 @@ The training data for the machine learning model consisted of:
   * The data was collected from the EMBRAPA - "Empresa Brasileira de Pesquisa Agropecuária", the Brazilian Agricultural Research Corporation, a state-owned company.
 
 
-2. **Cl
+2. **Climate data**
+
+<p align="center">
+  <img src="https://github.com/SVJLucas/BCG-Gamma-Challenge/assets/60625769/50c80e68-817e-48e3-b607-b791e1d3810b" alt="ClimateData" width="500px"/>
+</p>
+
+* The data was collected from the INPE - "Instituto Nacional de Pesquisas Espaciais", the Brazilian National Institute for Space Research.
+
+3. **Municipal Agricultural Production - "Produção Agrícula Munincipal (PAM)​"**
+
+  * PAM (Municipal Agricultural Production) is an annual survey conducted by IBGE (Brazilian Institute of Geography and Statistics) that provides statistics about agricultural production of 64 products in different regions of Brazil. It covers data such as planted and harvested area, **production**, yield, and price for both temporary and permanent crops at municipal, regional, and national levels.
+  * We used **the production, in kg per hectare,** provided by the Municipal Agricultural Production as **the target variable for our regression**.
+    
+
 
