@@ -34,11 +34,25 @@ The challenge centers on promoting sustainable economic development in the munic
 * 🌱 **55% soybeans**
 * 🌽 **27% corn**
 
-These monocultures result in soil exhaustion, leading to the nutritional degradation of the land. On the other hand, only a small percentage of cities (about 3% in the region) utilize *products compatible with the forest*, **thereby missing out on the global economic potential of these products**:
+These monocultures result in soil exhaustion, leading to the nutritional degradation of the land. On the other hand, only a small percentage of cities (about 3% in the region) utilize *products compatible with the forest*:
 
+*  **Pineapple**
+*  **Açaí**
+*  **Cocoa**
+*  **Robusta Coffee (in bean form)**
+*  **Cashew Nut**
+*  **Papaya**
+*  **Cassava**
+*  **Passionfruit**
+*  **Watermelon**
+*  **Other fruits and vegetables**
+
+
+
+By not using products compatible with the forest, **these cities are missing out on the global economic potential of these products**:
 
 <p align="center">
-  <img src="https://github.com/SVJLucas/BCG-Gamma-Challenge/assets/60625769/c8288923-6031-4a6d-937e-344941981e7f" alt="Amazon's Participation" width="250px"/>
+  <img src="https://github.com/SVJLucas/BCG-Gamma-Challenge/assets/60625769/ac52a342-8b6a-4a0c-b8cb-cf9bb0640bf2" alt="Amazon's Participation" width="600px"/>
 </p>
 
 ### Our Solution - Context: *Social Programs in the Amazon Rainforest*
