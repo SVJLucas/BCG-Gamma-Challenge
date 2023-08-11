@@ -44,3 +44,12 @@ Few cities use *products compatible with the forest* (only about 3% of total cit
 </p>
 
 ### Our Solution - Context: *Social Programs in the Amazon Rainforest*
+
+
+<p align="center">
+  <img src="https://github.com/SVJLucas/BCG-Gamma-Challenge/assets/60625769/79744a0d-7bd2-4f0b-9595-e54ad73f8c98" alt="Social Programs" width="500px"/>
+</p>
+
+But **there is no direct mention of products compatible with the forest in these programs**.
+
+## Our Solution - Proposal:
