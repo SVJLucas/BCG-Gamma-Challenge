@@ -127,5 +127,51 @@ The training data for the machine learning model consisted of:
   * PAM (Municipal Agricultural Production) is an annual survey conducted by IBGE (Brazilian Institute of Geography and Statistics) that provides statistics about agricultural production of 64 products in different regions of Brazil. It covers data such as planted and harvested area, **production**, yield, and price for both temporary and permanent crops at municipal, regional, and national levels.
   * We used **the production, in kg per hectare,** provided by the Municipal Agricultural Production as **the target variable for our regression**.
     
+### Our Solution - *Machine Learning*:
+
+For selecting the appropriate machine learning model for the task, we employed **AutoML**, a technique that involves automatically testing various different models. The results can be seen in the table below:
+
+<div align="center">
+
+| Model          | Algorithm Name                    | R2     |
+|----------------|-----------------------------------|--------|
+| et             | Extra Trees Regressor             | 0.7915 |
+| rf             | Random Forest Regressor           | 0.7800 |
+| catboost       | CatBoost Regressor                | 0.7585 |
+| lightgbm       | Light Gradient Boosting Machine   | 0.7548 |
+| xgboost        | Extreme Gradient Boosting         | 0.7497 |
+| gbr            | Gradient Boosting Regressor       | 0.6805 |
+| knn            | K Neighbors Regressor             | 0.6409 |
+| dt             | Decision Tree Regressor           | 0.6034 |
+| lar            | Least Angle Regression            | 0.5761 |
+| br             | Bayesian Ridge                    | 0.5761 |
+| ridge          | Ridge Regression                  | 0.5761 |
+| lr             | Linear Regression                 | 0.5761 |
+| huber          | Huber Regressor                   | 0.5682 |
+| lasso          | Lasso Regression                  | 0.5556 |
+| en             | Elastic Net                       | 0.5363 |
+| omp            | Orthogonal Matching Pursuit       | 0.5235 |
+| ada            | AdaBoost Regressor                | 0.2710 |
+| par            | Passive Aggressive Regressor      | 0.1479 |
+| llar           | Lasso Least Angle Regression      | -0.0002|
+| dummy          | Dummy Regressor                   | -0.0002|
+
+</div>
+
+
+Afterwards, we employed **Bayesian Otimization with SMAC** to optimize the hyperparameters of the model:
+
+
+<p align="center">
+  <img src="https://github.com/SVJLucas/BCG-Gamma-Challenge/assets/60625769/d22c0f06-8df8-4c9b-ba7c-332e754a09e3" alt="Bayesian Otimization" width="500px"/>
+</p>
+
+
+
+
+
+
+
+
 
 
