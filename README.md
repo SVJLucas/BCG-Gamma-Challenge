@@ -100,6 +100,14 @@ To choose the distribution of products in each city, we propose a solution (pipe
   <img src="https://github.com/SVJLucas/BCG-Gamma-Challenge/assets/60625769/7d21b992-85ff-4638-96c3-5b27d38e0318" alt="ReturnRisk" width="800px"/>
 </p>
 
+### Our Solution -  *Data*
+
+The training data for the machine learning model consisted of:
+
+1. **Soil data for each city**:
 
 
+<p align="center">
+  <img src="https://github.com/SVJLucas/BCG-Gamma-Challenge/assets/60625769/236eacaf-2861-4cb2-bc33-f6f94c390173" alt="SoilData" width="800px"/>
+</p>
 
