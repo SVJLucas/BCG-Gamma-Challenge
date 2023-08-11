@@ -52,4 +52,10 @@ Few cities use *products compatible with the forest* (only about 3% of total cit
 
 But **there is no direct mention of products compatible with the forest in these programs**.
 
-## Our Solution - Proposal:
+### Our Solution - Proposal:
+
+
+<p align="center">
+  <img src="https://github.com/SVJLucas/BCG-Gamma-Challenge/assets/60625769/4f7b4a46-5d4d-45ab-b996-25e7a0631e38" alt="Proposal" width="600px"/>
+</p>
+
