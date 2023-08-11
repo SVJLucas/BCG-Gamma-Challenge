@@ -53,6 +53,8 @@ By not using products compatible with the forest, **these cities are missing out
   <img src="https://github.com/SVJLucas/BCG-Gamma-Challenge/assets/60625769/ac52a342-8b6a-4a0c-b8cb-cf9bb0640bf2" alt="Amazon's Participation" width="600px"/>
 </p>
 
+---
+
 ### Our Solution - *Context: Social Programs in the Amazon Rainforest*
 
 There are a series of **Brazilian​ Government Social Programs** encouraging production in the Legal Amazon, like:​
@@ -67,6 +69,8 @@ There are a series of **Brazilian​ Government Social Programs** encouraging pr
 
 While these programs cover **62%** of the families receiving assistance in the region, **they do not mention products suitable for the Amazon rainforest**. This means that there is encouragement for **agriculture without taking into account the local biome and ecological diversity**.
 
+---
+
 ### Our Solution - *Proposal*:
 
 
@@ -75,6 +79,8 @@ While these programs cover **62%** of the families receiving assistance in the r
 </p>
 
 The primary goal is to provide additional incentives to local families to cultivate products that are compatible with the Amazon rainforest biome. Concurrently, the Brazilian federal government should purchase these products from the families and utilize them for the food supply in its facilities, including hospitals, schools, prisons, and the like.
+
+---
 
 ### Our Solution -  *How to select diverse products compatible with the Amazon rainforest that are suitable for the biome and climate of each municipality?*
 
@@ -89,6 +95,8 @@ The choice should take these factors into consideration, **maximizing the income
   <img src="https://github.com/SVJLucas/BCG-Gamma-Challenge/assets/60625769/3c1f057d-df24-42e0-b3a6-e8a01fb5f064" alt="ReturnRisk" width="800px"/>
 </p>
 
+---
+
 ### Our Solution -  *How to select diverse products compatible with the Amazon rainforest that are suitable for the biome and climate of each municipality?*
 
 To choose the distribution of products in each city, we propose a solution (pipeline) that combines two techniques:
@@ -99,6 +107,8 @@ To choose the distribution of products in each city, we propose a solution (pipe
 <p align="center">
   <img src="https://github.com/SVJLucas/BCG-Gamma-Challenge/assets/60625769/7d21b992-85ff-4638-96c3-5b27d38e0318" alt="ReturnRisk" width="800px"/>
 </p>
+
+---
 
 ### Our Solution -  *Data*
 
@@ -126,7 +136,11 @@ The training data for the machine learning model consisted of:
 
   * PAM (Municipal Agricultural Production) is an annual survey conducted by IBGE (Brazilian Institute of Geography and Statistics) that provides statistics about agricultural production of 64 products in different regions of Brazil. It covers data such as planted and harvested area, **production**, yield, and price for both temporary and permanent crops at municipal, regional, and national levels.
   * We used **the production, in kg per hectare,** provided by the Municipal Agricultural Production as **the target variable for our regression**.
-    
+
+
+---
+
+
 ### Our Solution - *Machine Learning*:
 
 For selecting the appropriate machine learning model for the task, we employed **AutoML**, a technique that involves automatically testing various different models. The results can be seen in the table below:
@@ -159,7 +173,7 @@ For selecting the appropriate machine learning model for the task, we employed *
 </div>
 
 
-Afterwards, we employed **Bayesian Otimization with SMAC** to optimize the hyperparameters of the model:
+Afterwards, we employed **Bayesian Otimization with SMAC** to optimize the hyperparameters of the best model (Extra Trees Regressor):
 
 
 <p align="center">
@@ -167,6 +181,8 @@ Afterwards, we employed **Bayesian Otimization with SMAC** to optimize the hyper
 </p>
 
 The optimized model achieved an R2 score of **0.84**.
+
+---
 
 
 ### Our Solution - *Optimization*:
