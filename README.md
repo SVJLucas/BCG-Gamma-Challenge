@@ -220,6 +220,8 @@ Given the value of the percentage of available area to be allocated to each Amaz
 
 ### Our Solution - *Consulting*:
 
+To ensure the feasibility of our solution, it's crucial to unite the three key stakeholders. Their combined expertise, insights, and resources will be instrumental in navigating the challenges and intricacies of the project:
+
 <p align="center">
   <img src="https://github.com/SVJLucas/BCG-Gamma-Challenge/assets/60625769/1a11875e-7172-4ca1-924f-d0cc1bc6b510" alt="Consulting" width="800px"/>
 </p>
