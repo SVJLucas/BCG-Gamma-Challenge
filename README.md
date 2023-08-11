@@ -31,12 +31,10 @@ The challenge centers on promoting sustainable economic development in the munic
 
 **In the Amazon, we​ have a prevalence of monocultures**. Of the entire area planted within its territory in the year 2019:
 
+* 🌱 **55% soybeans**
+* 🌽 **27% corn**
 
-<p align="center">
-  <img src="https://github.com/SVJLucas/BCG-Gamma-Challenge/assets/60625769/6a764603-38b1-47d0-8099-73703f9c9bb6" alt="PAM data" width="250px"/>
-</p>
-
-Few cities use *products compatible with the forest* (only about 3% of total cities in the region), **losing the economic potential of these products globally**. 
+These monocultures result in soil exhaustion, leading to the nutritional degradation of the land. On the other hand, only a small percentage of cities (about 3% in the region) utilize *products compatible with the forest*, **thereby missing out on the global economic potential of these products**:
 
 
 <p align="center">
@@ -56,6 +54,6 @@ But **there is no direct mention of products compatible with the forest in these
 
 
 <p align="center">
-  <img src="https://github.com/SVJLucas/BCG-Gamma-Challenge/assets/60625769/4f7b4a46-5d4d-45ab-b996-25e7a0631e38" alt="Proposal" width="600px"/>
+  <img src="https://github.com/SVJLucas/BCG-Gamma-Challenge/assets/60625769/4f7b4a46-5d4d-45ab-b996-25e7a0631e38" alt="Proposal" width="500px"/>
 </p>
 
