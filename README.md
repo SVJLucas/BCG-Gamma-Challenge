@@ -230,11 +230,21 @@ To ensure the feasibility of our solution, it's crucial to unite the three key s
 
 ### Our Solution - *Social, Environmental, and Economic Consequences*:
 
+We believe in refining existing social initiatives, optimizing agricultural practices per municipality, and promoting eco-friendly monitoring to preserve our forests. Furthermore, our solution has focus on polyculture and native cultivation aims to enhance biodiversity while also bolstering familial agricultural output by minimizing risks:
 
 
 <p align="center">
   <img src="https://github.com/SVJLucas/BCG-Gamma-Challenge/assets/60625769/4c54ad0e-c68a-4abf-aafa-0337fd58c3bb" alt="Consulting" width="650px"/>
 </p>
 
+### Our Solution - *Conclusion*:
+Our solution enhances existing social programs by using **machine learning** and **genetic algorithms** to align harvests with a municipality's planting preferences. We adopt organic methods to protect our forests and champion the cultivation of native crops. Our goal is not only to increase agricultural yield for families and mitigate risks but also to sustainably drive economic prosperity in the region. Collectively, these initiatives bring about notable social, environmental, and economic advantages.
 
+## Acknowledgements
+
+We'd like to sincerely thank the BCG team for giving us this opportunity. The challenge of addressing such a pressing issue, vital for Brazil, Latin America, and the global fight against the climate crisis, is deeply appreciated.
+
+## Contacts
+
+If you appreciated this project, wish to discuss it further, or have suggestions, ideas, or feedback, we would be honored to hear from you. Your perspective could be invaluable in refining our approaches and making an even greater impact. Please do not hesitate to reach out to us. We are always open to dialogue and collaboration.
 
