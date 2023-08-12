@@ -217,8 +217,9 @@ The genetic algorithm was implemented and is executed as follows:
 Given the value of the percentage of available area to be allocated to each Amazon-compatible product, along with the market values of these products, it is possible to estimate the generated value creation for the region.
 
 <p align="center">
-  <img src="https://github.com/SVJLucas/BCG-Gamma-Challenge/assets/60625769/4758df4d-c2bc-4fb3-9855-66088e07332e" alt="Results" width="600px"/>
+  <img src="https://github.com/SVJLucas/BCG-Gamma-Challenge/assets/60625769/f026f0eb-490e-4a8f-9fae-ad14fdebf9ac" alt="Results" width="600px"/>
 </p>
+
 
 ---
 
