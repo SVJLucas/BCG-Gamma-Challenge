@@ -29,14 +29,14 @@ The challenge centers on promoting sustainable economic development in the munic
 ## Our Solution
 
 
-### Our Solution - *Context: Products compatible with the forest*
+### Our Solution - *Context: Forest-compatible Products*
 
 **In the Amazon, we​ have a prevalence of monocultures**. Of the entire area planted within its territory in the year 2019:
 
 * 🌱 **55% soybeans**
 * 🌽 **27% corn**
 
-These monocultures result in soil exhaustion, leading to the nutritional degradation of the land. On the other hand, only a small percentage of cities (about 3% in the region) utilize *products compatible with the forest*:
+These monocultures result in soil exhaustion, leading to the nutritional degradation of the land. On the other hand, only a small percentage of cities (about 3% in the region) utilize *forest-compatible products*:
 
 *  **Pineapple**
 *  **Açaí**
@@ -51,7 +51,7 @@ These monocultures result in soil exhaustion, leading to the nutritional degrada
 
 
 
-By not using products compatible with the forest, **these cities are missing out on the global economic potential of these products**:
+By not using forest-compatible products, **these cities are missing out on the global economic potential of these products**:
 
 <p align="center">
   <img src="https://github.com/SVJLucas/BCG-Gamma-Challenge/assets/60625769/ac52a342-8b6a-4a0c-b8cb-cf9bb0640bf2" alt="Amazon's Participation" width="600px"/>
@@ -86,7 +86,7 @@ The primary goal is to provide additional incentives to local families to cultiv
 
 ---
 
-### Our Solution -  *How to select diverse products compatible with the Amazon rainforest that are suitable for the biome and climate of each municipality?*
+### Our Solution -  *How to select diverse forest-compatible products that are suitable for the biome and climate of each municipality?*
 
 We selected eleven products with the highest production history and analyzed the last ten years to extract the return and risk per municipality.
 
@@ -101,11 +101,11 @@ The choice should take these factors into consideration, **maximizing the income
 
 ---
 
-### Our Solution -  *How to select diverse products compatible with the Amazon rainforest that are suitable for the biome and climate of each municipality?*
+### Our Solution -  *How to select diverse forest-compatible products that are suitable for the biome and climate of each municipality?*
 
 To choose the distribution of products in each city, we propose a solution (pipeline) that combines two techniques:
 
-* **Machine Learning**: Using soil data for each city (pH, salinity, carbon, and saturation) as well as climate data for each city (temperature, rainfall, wind speed), we can generalize a model that can predict the productivity of each of the products compatible with the Amazon rainforest for each city.
+* **Machine Learning**: Using soil data for each city (pH, salinity, carbon, and saturation) as well as climate data for each city (temperature, rainfall, wind speed), we can generalize a model that can predict the productivity of each of the forest-compatible products for each city.
 * **Metaheuristic Optimization**: Using metaoptimization through a genetic algorithm, given the productivity of each city, we can find the best configuration of products suitable for the biome and climate of each municipality, maximizing the return-profit ratio for the Brazilian government.
 
 <p align="center">
@@ -136,7 +136,7 @@ The training data for the machine learning model consisted of:
 
 * The data was collected from the INPE - "Instituto Nacional de Pesquisas Espaciais", the Brazilian National Institute for Space Research.
 
-3. **Municipal Agricultural Production - "Produção Agrícula Munincipal (PAM)​"**
+3. **Municipal Agricultural Production - "Produção Agrícola Municipal (PAM)​"**
 
   * PAM (Municipal Agricultural Production) is an annual survey conducted by IBGE (Brazilian Institute of Geography and Statistics) that provides statistics about agricultural production of 64 products in different regions of Brazil. It covers data such as planted and harvested area, **production**, yield, and price for both temporary and permanent crops at municipal, regional, and national levels.
   * We used **the production, in kg per hectare,** provided by the Municipal Agricultural Production as **the target variable for our regression**.
